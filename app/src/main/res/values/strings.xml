@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implicit_Intent_Demo</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="open_url">Open URL</string>
+    <string name="location">Location</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="open_location">open Location</string>
+    <string name="share_text">Share Text</string>
+    <string name="camera">Camera</string>
+</resources>
